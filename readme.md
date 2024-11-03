@@ -45,6 +45,8 @@ Welcome to the comprehensive Computer Science 4-Year Roadmap! This guide will he
 **Resources:**
 - [Python.org](https://www.python.org/)
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
+- [Harvard CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+- [Python Programming](https://programming-23.mooc.fi/)
 
 ### Algorithms and Data Structures
 **Why Learn This?** Algorithms and data structures are fundamental for efficient problem-solving and software development.
@@ -56,7 +58,8 @@ Welcome to the comprehensive Computer Science 4-Year Roadmap! This guide will he
 **Resources:**
 - [Coursera - Algorithms and Data Structures](https://www.coursera.org/specializations/algorithms)
 - [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-
+- [WilliamFiset - Data Structures Playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=hNXDRUcynASWpPH-)
+- [AbdulBari - Algorithms Playlist](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=SGHR2MPucv_PbJgu)
 ### Capstone Project Options
 **Why This?** Capstone projects help you apply your skills to practical applications.
 
@@ -78,6 +81,7 @@ Choose one:
 
 **Resources:**
 - [edX - Object-Oriented Programming](https://www.edx.org/learn/object-oriented-programming)
+- [freeCodeCamp - Intro to Object Oriented Programming](https://youtu.be/SiBw7os-_zI?si=c2BE6r4wi1s_l1x0)
 
 ### Discrete Mathematics
 **Why Learn This?** Discrete math provides logical thinking and problem-solving skills, which are essential for computer science.
